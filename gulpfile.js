@@ -29,7 +29,7 @@ var reload       = browserSync.reload;
 
 // Project related variables
 // var projectURL   = 'https://test.dev';
-var projectURL   = 'http://mywebsite.localhost';
+var projectURL = 'http://mywebsite.localhost';
 
 var styleSRC     = 'src/scss/mystyle.scss';
 var styleURL     = './assets/';
